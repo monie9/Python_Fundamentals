@@ -1,8 +1,13 @@
 # Python_Fundamentals
 Python Fundamentals Project.
-Name: Monia Ishimwe   //
-Registration Number: 221021897   //
+Name: Monia Ishimwe   
+
+Registration Number: 221021897   
+
 Department: Computer Science
+
+
+
 This learning project will be taken from the Jetbrains Academy platform. Jetbrains Academy is an online project-based learning platform. however this platform is not free, but from a referal you would be able to extend your trial period. This means that to complete this assignment you will have to complete all the project stages of the suggested project.
 
 Instructions
